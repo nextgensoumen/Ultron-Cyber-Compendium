@@ -21,6 +21,18 @@
 
 This repository serves as a meticulously structured, professional-grade reference guide for security engineers, penetration testers, and SOC analysts. It centralizes detailed methodologies, step-by-step commands, result analyses, and practical use cases for various industry-standard cybersecurity tools.
 
+## 📑 Table of Contents
+- [🎯 Purpose](#-purpose)
+- [🧰 Tools Index](#-tools-index)
+- [🤝 Contributing](#-contributing)
+- [🚔 Policies & Governance](#-policies--governance)
+
+## 🚔 Policies & Governance
+
+- **Community Guidelines:** Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before participating.
+- **Reporting Vulnerabilities:** Follow our [Security Policy](SECURITY.md) for responsible disclosure.
+- **Issue Lifecycle:** To keep the compendium highly focused, inactive issues or stalled Pull Requests will be marked stale after 30 days and closed if no further activity occurs.
+
 <details>
 <summary><b>Click to see details on who this is for:</b></summary>
 <br>
