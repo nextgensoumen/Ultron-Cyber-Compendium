@@ -43,6 +43,21 @@ Here is the complete directory of the cybersecurity tools documented in this com
 
 ---
 
+## 🤝 Contributing
+
+**We welcome cybersecurity enthusiasts, students, and professionals to contribute tools, manuals, and knowledge!**
+
+Whether you want to document a new tool, add advanced command examples, or improve an existing guide, your contributions help build a powerful open cybersecurity knowledge base for everyone.
+
+**How to contribute:**
+1. Read our comprehensive [Contributing Guide](CONTRIBUTING.md) for the mandatory document structure.
+2. Check our [Code of Conduct](CODE_OF_CONDUCT.md) to understand our community standards.
+3. Submit your tool documentation via a [Pull Request](https://github.com/nextgensoumen/Ultron-Cyber-Compendium/pulls)!
+
+> 💡 **Have a tool request?** If you don't have time to write the docs but want to see a tool featured, open a [Tool Request Issue](https://github.com/nextgensoumen/Ultron-Cyber-Compendium/issues/new/choose).
+
+---
+
 <div align="center">
   <b>⚡ Updated continuously with new tools and documentation.</b>
 </div>
