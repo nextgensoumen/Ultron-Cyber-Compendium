@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github" alt="Status Active" />
-  <img src="https://img.shields.io/badge/Security-Tools-blue?style=for-the-badge&logo=security" alt="Security Tools" />
-  <img src="https://img.shields.io/badge/Documentation-100%25-brightgreen?style=for-the-badge&logo=markdown" alt="Documentation Status" />
+  <img src="https://img.shields.io/github/stars/nextgensoumen/Ultron-Cyber-Compendium?style=for-the-badge&logo=github&color=yellow" alt="Hits" />
+  <img src="https://img.shields.io/github/forks/nextgensoumen/Ultron-Cyber-Compendium?style=for-the-badge&logo=git&color=orange" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/nextgensoumen/Ultron-Cyber-Compendium?style=for-the-badge&logo=github&color=red" alt="Issues" />
+  <img src="https://img.shields.io/github/contributors/nextgensoumen/Ultron-Cyber-Compendium?style=for-the-badge&logo=users&color=blue" alt="Contributors" />
+  <img src="https://img.shields.io/github/license/nextgensoumen/Ultron-Cyber-Compendium?style=for-the-badge&logo=law&color=brightgreen" alt="License" />
   
   <br />
   <br />
@@ -33,15 +35,11 @@ This repository serves as a meticulously structured, professional-grade referenc
 
 ## 🧰 Tools Index
 
-Explore the complete directory of cybersecurity tools documented in this compendium. Each tool is categorized for ease of navigation.
-
-<div align="center">
+Here is the complete directory of the cybersecurity tools documented in this compendium:
 
 | 🛠️ Tool Name | 🔰 Category | 🔗 Link |
-| :--- | :--- | :--- |
-| **Nmap** | <kbd>Network Scanner / Port Scanner</kbd> | [� `tools/nmap.md`](tools/nmap.md) |
-
-</div>
+|:---|:---|:---|
+| **Nmap** | Network Scanner / Port Scanner | [📝 View Documentation](tools/nmap.md) |
 
 ---
 
