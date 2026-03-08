@@ -2,23 +2,22 @@
   <h1>🤝 Contributing to Ultron Cyber Compendium</h1>
 </div>
 
-**We welcome contributions from the cybersecurity community. Whether you are a beginner or an experienced security professional, your knowledge can help others learn and grow. Please contribute tools, manuals, and improvements to make this repository a powerful cybersecurity knowledge hub.**
+**We welcome cybersecurity enthusiasts, students, and professionals to contribute tools, manuals, and knowledge. Your contributions help build a powerful open cybersecurity knowledge base for everyone.**
 
 ---
 
 ## 🎯 Repository Goal
 
-Ultron-Cyber-Compendium is a meticulously structured, professional-grade cybersecurity knowledge base. It contains detailed documentation covering industry-standard cybersecurity tools designed for everyone from beginners to seasoned security engineers.
+Ultron-Cyber-Compendium is an open, collaborative cybersecurity knowledge hub. It contains actionable, detailed documentation covering industry-standard cybersecurity tools designed for everyone from beginners to seasoned security engineers.
 
 ## 🛠️ Contribution Areas
 
-We welcome contributions in the following areas:
-1. **Tools documentation** (Adding new tools)
-2. **Manual improvements** (Refining existing tools)
-3. **Command explanations** (Adding clarity or new flags)
-4. **Installation guides** (Updating steps for new OS environments)
-5. **Result analysis examples** (Sharing real-world output scenarios)
-6. **Additional cybersecurity learning material** (Adding use cases, professional workflows, and interview questions)
+We encourage the community to actively publish their own knowledge. You can contribute by:
+1. **Publishing New Cyber Tools:** Add documentation for a tool you use in the real industry.
+2. **Manual improvements:** Refining existing tool guides.
+3. **Command explanations:** Adding new flags, commands, and practical examples.
+4. **Result analysis examples:** Sharing real-world output scenarios.
+5. **Additional learning material:** Expanding the use cases and interview questions.
 
 ---
 
@@ -57,9 +56,21 @@ When contributing a new tool, contributors **must** follow this exact documentat
 
 - **Location:** All tool documentation must be placed inside the `/tools` folder.
 - **Naming Convention:** File name format must be lowercase: `toolname.md` (e.g., `wireshark.md`, `burpsuite.md`).
-- **Markdown:** Use clean GitHub markdown formatting. Apply styled tables, code blocks (` ```bash `), blockquotes (`>`), and collapsible details (`<details>`) for long content.
 - **Template Integrity:** Do not remove sections from the template. If a section does not apply (e.g., GUI usage for a strictly CLI tool), gracefully state that it is not applicable.
-- **Accuracy:** Provide accurate, tested, and practical information.
+
+### ⚠️ Important Note on Formatting Quality
+
+Our goal is to keep the repository **professional, readable, visually clean, and consistent** across every single tool.
+
+While we welcome plain-text markdown submissions regarding content, **all submissions will be strictly reformatted to match our centralized visual styling standards before merge**.
+
+If your PR contains plain or non-stylish markdown, our maintainers will automatically restructure the file to include:
+- Clean markdown layouts with centered headers
+- `https://img.shields.io/` badges for statuses
+- Explicit code blocks for terminal commands (e.g., ```bash)
+- Markdown blockquotes (`>`) for highlights and tips
+- Table layouts for structured information
+- Collapsible detail sections (`<details>`) for long content
 
 ---
 
@@ -70,8 +81,8 @@ Ready to share your knowledge? Follow these steps to submit your contributions:
 1. **Fork the repository:** Click the "Fork" button at the top right of this repository.
 2. **Create a new branch:** Use a descriptive branch name (e.g., `git checkout -b add-tool-sqlmap` or `git checkout -b improve-nmap-workflow`).
 3. **Add or edit tool documentation:** Write your markdown file following the exact documentation structure provided above and place it in the `/tools` directory.
-4. **Follow the documentation structure:** Ensure your markdown styling aligns with the rigorous professional standards of the repository.
-5. **Submit a pull request:** Push your branch to your fork and submit a Pull Request against the `main` branch of this repository. Provide a clear description of the tool or the improvements you made.
+4. **Follow the formatting rules:** Follow our structural template to the best of your ability.
+5. **Submit a pull request:** Push your branch to your fork and submit a Pull Request against the `main` branch of this repository. Our maintainers will review the technical content and automatically apply the repository's professional aesthetic styling before merging!
 
 ---
 
