@@ -128,7 +128,7 @@ Ready to share your knowledge? Follow these easy, beginner-friendly steps:
 1. 🍴 **Fork the repository:** Click the "Fork" button at the top right of this GitHub page. This creates a personal copy of `Ultron-Cyber-Compendium` under your own GitHub account.
 2. 💻 **Clone your Fork:** Download your new personal copy to your local computer:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Ultron-Cyber-Compendium.git
+   git clone https://github.com/nextgensoumen/Ultron-Cyber-Compendium.git
    ```
 3. 🌿 **Create a new branch:** Never edit the `main` branch. Create a new branch with a descriptive name so we know exactly what you are working on:
    ```bash
