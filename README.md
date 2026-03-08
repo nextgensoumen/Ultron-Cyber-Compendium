@@ -33,11 +33,15 @@ This repository serves as a meticulously structured, professional-grade referenc
 
 ## 🧰 Tools Index
 
-Here is the complete directory of the cybersecurity tools documented in this compendium:
+Explore the complete directory of cybersecurity tools documented in this compendium. Each tool is categorized for ease of navigation.
+
+<div align="center">
 
 | 🛠️ Tool Name | 🔰 Category | 🔗 Link |
-|:---|:---|:---|
-| **Nmap** | Network Scanner / Port Scanner | [📝 View Documentation](tools/nmap.md) |
+| :--- | :--- | :--- |
+| **Nmap** | <kbd>Network Scanner / Port Scanner</kbd> | [� `tools/nmap.md`](tools/nmap.md) |
+
+</div>
 
 ---
 
