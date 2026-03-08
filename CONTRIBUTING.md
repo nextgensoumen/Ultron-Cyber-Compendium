@@ -117,26 +117,25 @@ If your PR contains plain or non-stylish markdown, our maintainers will automati
 
 ## 🚀 Contribution Process (How to Submit)
 
-> ⛔ **Important Rule:** Please do not commit directly to the `main` branch.  
-> Create a new branch for your changes and submit a Pull Request for review.
+**Important Rule: Please do not commit directly to the main branch.**  
+Direct commits can break repository stability. Instead, we use a standard open-source workflow where you create your own branch and submit a "Pull Request" for review.
 
-We use Pull Requests (PRs) to ensure that every addition to the compendium maintains our high professional standards before it becomes public. If you are a beginner to open-source, don't worry—the process is simple!
+> **💡 Why Pull Requests?**  
+> Pull requests let our maintainers review a snapshot of your code before it merges into the official compendium. This keeps our documentation perfectly formatted, safe from errors, and ensures everything runs smoothly for everyone else!
 
-Ready to share your knowledge? Follow these 6 steps to submit your contributions:
+Ready to share your knowledge? Follow these easy steps to submit your contributions:
 
 1. 🍴 **Fork the repository:** Click the "Fork" button at the top right of this repository to create your own copy.
-2. 🌿 **Create a new branch:** Use a descriptive branch name in your forked repository. For example:
-   ```bash
-   git checkout -b add-nmap-tool
-   git checkout -b improve-wireshark-guide
-   git checkout -b fix-command-section
-   ```
-3. ✍️ **Add or edit documentation:** Write your markdown file following the exact 16-point structure.
-4. 💾 **Commit your changes:** Save your work with a clear message explaining what you did.
-5. 📤 **Push the branch to your fork:** Upload your new branch to your own GitHub account.
-6. 🔄 **Submit a Pull Request:** Open a PR against the `main` branch of this repository.
+2. 🌿 **Create a new branch:** Never edit the `main` branch. Use a descriptive branch name so we know exactly what you are working on:
+   - *Example: `git checkout -b add-tool-sqlmap`*
+   - *Example: `git checkout -b improve-nmap-workflow`*
+   - *Example: `git checkout -b fix-command-section`*
+3. ✍️ **Add or edit documentation:** Write your markdown file following the exact template above and place it in the `/tools` directory.
+4. 💾 **Commit your changes:** Save your work with a clear message (e.g., `git commit -m "Added SQLMap documentation"`).
+5. 📤 **Push the branch:** Push the branch to *your* fork (`git push origin add-tool-sqlmap`).
+6. 🔄 **Submit a Pull Request:** Go to the main Ultron-Cyber-Compendium repository on GitHub and click "New Pull Request" to merge your branch into our `main` branch.
 
-*Our maintainers will review your Pull Request, automatically apply the repository's professional aesthetic styling, and merge it!*
+*Our maintainers will review the technical content, apply the professional styling if needed, and merge your awesome contribution into the compendium!*
 
 ---
 <div align="center">
