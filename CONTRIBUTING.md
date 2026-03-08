@@ -117,18 +117,26 @@ If your PR contains plain or non-stylish markdown, our maintainers will automati
 
 ## 🚀 Contribution Process (How to Submit)
 
-Ready to share your knowledge? Follow these steps to submit your contributions:
+> ⛔ **Important Rule:** Please do not commit directly to the `main` branch.  
+> Create a new branch for your changes and submit a Pull Request for review.
 
-1. 🍴 **Fork the repository:** Click the "Fork" button at the top right of this repository.
-2. 🌿 **Create a new branch:** Use a descriptive branch name:
+We use Pull Requests (PRs) to ensure that every addition to the compendium maintains our high professional standards before it becomes public. If you are a beginner to open-source, don't worry—the process is simple!
+
+Ready to share your knowledge? Follow these 6 steps to submit your contributions:
+
+1. 🍴 **Fork the repository:** Click the "Fork" button at the top right of this repository to create your own copy.
+2. 🌿 **Create a new branch:** Use a descriptive branch name in your forked repository. For example:
    ```bash
-   git checkout -b add-tool-sqlmap
+   git checkout -b add-nmap-tool
+   git checkout -b improve-wireshark-guide
+   git checkout -b fix-command-section
    ```
-3. ✍️ **Add or edit documentation:** Write your markdown file following the exact 16-point structure and place it in the `/tools` directory.
-4. 👀 **Review formatting:** Follow our structural template to the best of your ability.
-5. 📤 **Submit a pull request:** Push your branch to your fork and submit a Pull Request against the `main` branch of this repository.
+3. ✍️ **Add or edit documentation:** Write your markdown file following the exact 16-point structure.
+4. 💾 **Commit your changes:** Save your work with a clear message explaining what you did.
+5. 📤 **Push the branch to your fork:** Upload your new branch to your own GitHub account.
+6. 🔄 **Submit a Pull Request:** Open a PR against the `main` branch of this repository.
 
-*Our maintainers will review the technical content and automatically apply the repository's professional aesthetic styling before merging!*
+*Our maintainers will review your Pull Request, automatically apply the repository's professional aesthetic styling, and merge it!*
 
 ---
 <div align="center">
